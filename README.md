@@ -1,1 +1,1 @@
-## CLI for mongodb curd operation
+## CLI for mongodb crud operation
